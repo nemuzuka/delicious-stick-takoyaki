@@ -1,0 +1,2 @@
+SlackIntent スラックに通知
+SlackIntent スラックにつうち
